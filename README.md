@@ -29,7 +29,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalmutalik&show_icons=true&theme=github_dark" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrajwalMutalik&show_icons=true&count_private=true&cache_seconds=3600&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalmutalik&layout=compact&theme=github_dark" height="180em"/>
 </p>
 
